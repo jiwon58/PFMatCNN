@@ -5,5 +5,5 @@
 * Please contact the authors directly for instructions on how to use PFSegNet  
     + J. Yeom (<jiwon58@kaist.ac.kr>)
     + T. Stan (<teberiu.stan@northwestern.edu>)
-    + P. Voorhees
-    + S. Hong 
+    + S. Hong (<seungbum@kaist.ac.kr>)
+    + P. Voorhees (<p-voorhees@northwestern.edu>)
