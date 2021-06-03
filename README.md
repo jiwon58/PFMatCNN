@@ -1,11 +1,9 @@
-# PFSegNet
+# PFSegNet  
 
-Associated manuscript: 
-J. Yeom, T. Stan, .... "Title".... citation
-doi: //<Hyperlink>> "click to view"
+* Associated manuscript: Jiwon Yeom, Tiberiu Stan, Seungbum Hong, Peter W. Voorhees, Segmentation of Experimental Datasets via Convolutional Neural Networks Trained on Phase Field Simulations, Acta Materialia, 2021, 116990, ISSN 1359-6454, [https://doi.org/10.1016/j.actamat.2021.116990](https://doi.org/10.1016/j.actamat.2021.116990).  
 
-Please contact the authors directly for instructions on how to use PFSegNet
-J. Yeom <email>
-T. Stan <email>
-P. Voorhees
-S. Hong 
+* Please contact the authors directly for instructions on how to use PFSegNet  
+    + J. Yeom (<jiwon58@kaist.ac.kr>)
+    + T. Stan (<teberiu.stan@northwestern.edu>)
+    + P. Voorhees
+    + S. Hong 
